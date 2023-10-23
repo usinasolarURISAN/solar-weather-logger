@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": -54.2628,
+    "lat": -28.2977
+  },
+  "weather": [
+    {
+      "id": 502,
+      "main": "Rain",
+      "description": "chuva forte",
+      "icon": "10n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 21.22,
+    "feels_like": 21.85,
+    "temp_min": 21.22,
+    "temp_max": 21.22,
+    "pressure": 1015,
+    "humidity": 94
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4.63,
+    "deg": 230
+  },
+  "rain": {
+    "1h": 9.99
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1649031327,
+  "sys": {
+    "type": 1,
+    "id": 8400,
+    "country": "BR",
+    "sunrise": 1648979275,
+    "sunset": 1649021543
+  },
+  "timezone": -10800,
+  "id": 3449696,
+  "name": "Santo Ângelo",
+  "cod": 200
+}
